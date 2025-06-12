@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyUtilities", "FriendlyUtilities\FriendlyUtilities.csproj", "{E198FAE4-98B3-4FF5-91D9-9D0D5E855179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyUtilities.Tests", "FriendlyUtilities.Tests\FriendlyUtilities.Tests.csproj", "{B2D2B109-A7C3-41D8-953B-7D4A51387142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E198FAE4-98B3-4FF5-91D9-9D0D5E855179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E198FAE4-98B3-4FF5-91D9-9D0D5E855179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E198FAE4-98B3-4FF5-91D9-9D0D5E855179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E198FAE4-98B3-4FF5-91D9-9D0D5E855179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D2B109-A7C3-41D8-953B-7D4A51387142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D2B109-A7C3-41D8-953B-7D4A51387142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D2B109-A7C3-41D8-953B-7D4A51387142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D2B109-A7C3-41D8-953B-7D4A51387142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
